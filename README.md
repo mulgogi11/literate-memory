@@ -1,4 +1,4 @@
-# literate-memory
+
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
